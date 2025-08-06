@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+    <style>
+@keyframes a0_t { 0% { transform: translate(0px,0px); } 25% { transform: translate(0px,0px); animation-timing-function: cubic-bezier(0,0,0.58,1); } 100% { transform: translate(0px,10px); } }
+@keyframes a0_o { 0% { opacity: 0; } 25% { opacity: 1; } 75% { opacity: 1; } 100% { opacity: 0; } }
+    </style>
+    <path d="M5.34264,4.76325C4.95215,4.37277,4.95224,3.73972,5.34264,3.34919C5.73316,2.95867,6.36617,2.95867,6.7567,3.34919L11.9462,8.53962L17.2499,3.34138L17.326,3.27399C17.722,2.9574,18.3014,2.98615,18.6639,3.35603C19.0264,3.72588,19.0431,4.30538,18.7186,4.69489L18.6493,4.77009L12.6395,10.6597C12.2479,11.0435,11.62,11.0406,11.2323,10.6529L5.34264,4.76325Z" fill="#888F95" opacity="0" transform="translate(11.9997,7.00077) translate(-11.9997,-7.00077)" style="animation: 1.6s linear infinite both a0_t, 1.6s linear infinite both a0_o;"/>
+</svg>
