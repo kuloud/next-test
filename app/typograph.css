@@ -1,0 +1,90 @@
+.headline {
+  font-size: 40px;
+  font-family: var(--font-funnel-display);
+  font-weight: 700;
+  font-style: normal;
+  line-height: 100%;
+  text-decoration: none;
+  text-transform: none;
+}
+.title-1-semi-bold {
+  font-size: 36px;
+  font-family: var(--font-funnel-display);
+  font-weight: 600;
+  font-style: normal;
+  line-height: 100%;
+  text-decoration: none;
+  text-transform: none;
+}
+.title-2-semi-bold {
+  font-size: 32px;
+  font-family: var(--font-funnel-display);
+  font-weight: 700;
+  font-style: normal;
+  line-height: 100%;
+  text-decoration: none;
+  text-transform: none;
+}
+.title-2-bold {
+  font-size: 28px;
+  font-family: var(--font-funnel-display);
+  font-weight: 700;
+  font-style: normal;
+  line-height: 100%;
+  text-decoration: none;
+  text-transform: none;
+}
+.body-1-bold {
+  font-size: 24px;
+  font-family: var(--font-satoshi);
+  font-weight: 700;
+  font-style: normal;
+  line-height: 150%;
+  text-decoration: none;
+  text-transform: none;
+}
+.body-1-medium {
+  font-size: 20px;
+  font-family: var(--font-satoshi);
+  font-weight: 500;
+  font-style: normal;
+  line-height: 150%;
+  text-decoration: none;
+  text-transform: none;
+}
+.body-2-medium {
+  font-size: 18px;
+  font-family: var(--font-satoshi);
+  font-weight: 500;
+  font-style: normal;
+  line-height: 150%;
+  text-decoration: none;
+  text-transform: none;
+}
+.body-3-bold {
+  font-size: 16px;
+  font-family: var(--font-satoshi);
+  font-weight: 700;
+  font-style: normal;
+  line-height: 150%;
+  text-decoration: none;
+  text-transform: none;
+}
+.body-3-medium {
+  font-size: 16px;
+  font-family: var(--font-satoshi);
+  font-weight: 500;
+  font-style: normal;
+  line-height: 150%;
+  text-decoration: none;
+  text-transform: none;
+}
+.accessory-medium {
+  font-size: 14px;
+  font-family: var(--font-satoshi);
+  font-weight: 500;
+  font-style: normal;
+  line-height: 20px;
+  text-decoration: none;
+  text-transform: none;
+}
